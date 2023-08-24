@@ -34,30 +34,21 @@ A student leave management system is an online software application that helps e
       
 7) All Set! 🤩
    Now you can run the server to see your application up & running 🚀
-
+      -> python manage.py create superuser
       -> $ python manage.py runserver
 
-8) To exit the environment ❎
+9) To exit the environment ❎
 
       -> $ deactivate
 
-9) Every time you want to open the application in browser, make sure you run:
+10) Every time you want to open the application in browser, make sure you run:
 
       -> $ source venv/Scripts/activate
       -> $ python manage.py runserver
       
-10) Data for login :
+11) Data for login :
 
 Admin
       Email : admin@gmail.com
       Password : admin
-      
-Faculty 
-      Email : ckb@gmail.com
-      Password : ckb123
-
-Student 
-      Email : kevan@gmail.com
-      Password : kevan123
-      
       
